@@ -17,17 +17,18 @@ I use SQL, MySQL, Power BI, Excel, and Tableau to clean, validate, analyze, and 
 ### 🛒 Olist E-Commerce Analytics
 End-to-end e-commerce analysis covering revenue, customers, products, payments, logistics, delivery performance, and customer satisfaction.
 * **Tools:** SQL | MySQL | Power BI | Excel
-* [View Project](https://github.com)
+* [View Project](https://github.com/Paulinus781227/Olist-Ecommerce-Analytics)
 
 ### 📈 Northwind Sales & Business Performance Analysis
 Sales and business performance analysis covering revenue, customers, products, employee performance, sales trends, and data quality.
 * **Tools:** SQL | MySQL | Power BI
-* [View Project](https://github.com)
+* [View Project](https://github.com/Paulinus781227/Northwind-Sales-Analysis)
 
 ### 👥 HR Attrition Analysis
 Analysis of employee attrition patterns across departments, job roles, overtime, tenure, satisfaction, work-life balance, and other employee characteristics.
 * **Tools:** SQL | Power BI
-
+* [View Project](https://github.com/Paulinus781227/HR-Attrition-Analysis)
+  
 ### 💰 Department Salary Gap Analysis
 SQL-based analysis of payroll distribution, departmental salary differences, salary bands, and data-quality issues.
 * **Tools:** SQL | MySQL | Power BI
